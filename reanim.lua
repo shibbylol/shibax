@@ -1,3 +1,3 @@
-function e(lol)
+function(lol)
 print(lol)
 end
